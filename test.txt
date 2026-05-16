@@ -1,0 +1,1 @@
+ ye le bhia sayad ho hee gaya dikhe setup nvme3n1 ke sath , is file me phir oth use kar hee lenge aur iske liye ham ready rakhte hian phir git and github , am i raght ? 
