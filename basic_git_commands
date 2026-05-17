@@ -1,0 +1,26 @@
+    sudo apt update
+    sudo apt install git -y
+    git --version
+    ls
+    ls -la
+    git status
+    ls
+    git add test.txt
+    git status
+    ls
+    ls -la
+    git rm --cached test.txt
+    git status
+    git add .
+    git status
+    ls
+    git commit -m "added first file"
+    git status
+    ls
+    rm test.txt
+    ls
+    git status
+    git restore test.txt
+    ls
+    git status
+   history 
